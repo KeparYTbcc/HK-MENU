@@ -55,7 +55,7 @@ echo ARE YOU SURE U INSTALLED EVERY Dependencies CORRECTLY?
 echo.
 set /p main123=(y/n)
 if %main123%==y goto rebegin
-if %main123%==n start https://discord.com/channels/826856626241011792/842523962670972988/842524324774412358 && goto install1
+if %main123%==n start https://discord.com/channels/842631800726880256/842632011889377301/842632073630318652 && goto install1
 goto sure123
 :rebegin
 start https://www.youtube.com/channel/UCJ2l3NRmNrmtOkcMjXycbcg
