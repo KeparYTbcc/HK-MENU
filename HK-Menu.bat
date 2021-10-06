@@ -130,7 +130,7 @@ goto main
 
 :Quizizz1
 cls
-start https://quizizz.rocks/
+start https://schollcheats.net/
 cls
 echo.
 echo Enter Game Pin to get answers of a quizizz Game
